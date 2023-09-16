@@ -10,7 +10,6 @@ I am a self taught web developer! Learning to code was always a idea in my head,
 * 🧠  I'm currently learning advanced topics within the React framework and will be moving onto Node.js soon!
 * ⚡  I'm pretty sure I have an obsession with Lord of the Rings two to three viewings every couple of months sometimes isn't enough!
 
-### Developer Skills
 <h1 align="center">Developer Skills</h1>
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=js" width="64" height="64" /></a>
