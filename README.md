@@ -18,10 +18,12 @@ I am a self taught web developer! Learning to code was always a idea in my head,
   <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="64" height="64" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=react" width="64" height="64" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="64" height="64" /></a>
+   <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="64" height="64" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=webpack" width="64" height="64" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=jest" width="64" height="64" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" width="64" height="64" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="64" height="64" /></a>
+
 </p>
 
 <h1 align="center">UI Design Skills</h1>
