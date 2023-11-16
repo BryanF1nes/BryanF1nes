@@ -4,7 +4,7 @@ Hi 👋 My name is Bryan Fines
 Full-Stack Web Developer!
 -------------------------
 
-I am a self taught web developer! Learning to code was always a idea in my head, it wasn't really a passion until one day I made my first ever calculator application utilizing the resources at @TheOdinProject. That was when everything changed and I knew I wanted to pursue a life long career in the world of programming and web development! I've been teaching my self programming for over 6 months, from the humble beginnings of HTML, CSS, and JavaScript. To the world of React, Tailwind, and one day soon Node/Next.js to be able to round my self off as a full-stack developer!
+I am a self taught web developer! Learning to code was always a idea in my head, it wasn't really a passion until one day I made my first ever calculator application utilizing the resources at @TheOdinProject. That was when everything changed and I knew I wanted to pursue a life long career in the world of programming and web development! I've been teaching my self programming for over 8 months, from the humble beginnings of HTML, CSS, and JavaScript. To the world of React, Tailwind, and Node/Express to be able to round my self off as a full-stack developer!
 
 * 🌍  I'm based in Virginia!
 * 🧠  I'm currently learning advanced topics within the React framework and will be moving onto Node.js soon!
