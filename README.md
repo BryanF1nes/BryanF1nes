@@ -4,7 +4,7 @@ Hi 👋 My name is Bryan Fines
 Full-Stack Web Developer!
 -------------------------
 
-I am a self taught Full-Stack Software Developer. From the humble beginnings of HTML & CSS to learning the foundamentals of JavaScript! Thanks to the <a href="https://www.theodinproject.com/">TheOdinProject</a> for not only helping me find my passion but also giving me a resource that has taught me the foundations and fundamentals of Web Development!
+I am a self taught fullstack developer! Thanks to the <a href="https://www.theodinproject.com/">TheOdinProject</a> for guiding me and allowing me the opportunity to challenge myself every single day!
 
 * 🌍  I'm based in Virginia!
 * 🧠  I'm currently learning NodeJS and Electron for building Rest API's and desktop applications!
