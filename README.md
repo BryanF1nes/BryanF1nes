@@ -5,6 +5,7 @@ Full-Stack Web Developer!
 -------------------------
 
 I am a self taught fullstack developer! Thanks to the <a href="https://www.theodinproject.com/">TheOdinProject</a> for guiding me and allowing me the opportunity to challenge myself every single day!
+Currently a contributor with [Deals for Devs](https://github.com/Learn-Build-Teach/deals-for-devs)!
 
 * 🌍  I'm based in Virginia!
 * 🧠  I'm currently learning NodeJS and Electron for building Rest API's and desktop applications!
