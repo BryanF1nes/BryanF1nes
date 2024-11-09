@@ -11,7 +11,7 @@ You can read more about it here: [Dev.to/theodinproject](https://dev.to/theodinp
 
 - Husband and Father
 - Always wanting to learn
-- Internship with Fluso Software
+- Software Engineer at Flusso Software
 
 ### Skills
 
