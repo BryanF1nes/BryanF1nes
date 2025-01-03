@@ -15,9 +15,9 @@ You can read more about it here: [Dev.to/theodinproject](https://dev.to/theodinp
 - Always wanting to learn
 - Learning game development
 
-### Skills
+### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,py,ts,webpack,react,nodejs,express,jest,npm,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,react,express,html,css,mongodb,mysql,webpack,npm,jest)](https://skillicons.dev)
 
 ### Social
 
