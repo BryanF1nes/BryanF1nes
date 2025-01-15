@@ -4,7 +4,7 @@
 
 I began my journey to learn how to program in 2023 thanks to the [The Odin Project](https://www.theodinproject.com/)!
 
-Software Engineer at Flusso Software
+Software Engineer at IDE Software
 
 Currently contributing with [The Odin Project](https://github.com/TheOdinProject) and [Deals for Devs](https://github.com/Learn-Build-Teach/deals-for-devs)!
 
