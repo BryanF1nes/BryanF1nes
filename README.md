@@ -17,7 +17,7 @@ You can read more about it here: [Dev.to/theodinproject](https://dev.to/theodinp
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,express,html,css,mongodb,mysql,webpack,npm,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,react,express,html,css,mongodb,mysql,webpack,npm,jest)](https://skillicons.dev)
 
 ### Social
 
