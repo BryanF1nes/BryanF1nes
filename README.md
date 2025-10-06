@@ -11,9 +11,9 @@ Currently contributing with [The Odin Project](https://github.com/TheOdinProject
 ### Contributed to the release of our [Node Revamp](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) on The Odin Project
 You can read more about it here: [Dev.to/theodinproject](https://dev.to/theodinproject/updates-to-the-node-course-postgresql-prisma-and-more-4dl3)
 
+- Christian
 - Husband and Father
-- Hockey Advocate
-- Guitarist
+- Hockey Lover
 - History nerd
 
 ### Languages
