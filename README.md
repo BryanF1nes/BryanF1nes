@@ -2,7 +2,7 @@
 
 ## About Me
 
-I began my journey learning how to program in 2023 thanks to the [The Odin Project](https://www.theodinproject.com/)!
+I began my journey learning how to program in 2022 thanks to the [The Odin Project](https://www.theodinproject.com/)!
 
 Software Engineer at IDE Software
 
